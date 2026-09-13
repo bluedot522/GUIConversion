@@ -22,7 +22,7 @@ Users input an age and movie rating into appropriate textbox fields and click th
 This program features 11 pt Segoe Font for readability.
 The minumum form size is at 660, 300, while the maximum size is at 800, 300.
 
-The tab order starts at the age entry, descends to the rating entry, follows to Calculate, Clear All, then Quit.
+The tab order starts at the Age entry, descends to the Rating entry, follows to Calculate, Clear All, then Quit.
 
 The welcome message is anchored to the top left.
 The Results label and text box is anchored to the right.
